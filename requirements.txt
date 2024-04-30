@@ -1,0 +1,7 @@
+
+langchain
+openai==0.28.1
+tiktoken
+faiss-cpu
+heyoo
+Office365-REST-Python-Client
